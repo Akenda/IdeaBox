@@ -1,0 +1,13 @@
+.title{
+    border-bottom: 3px solid #1abc9c;
+}
+
+.idea-result{
+    padding: 10px;
+    vertical-align: bottom;
+}
+
+.is-citation{
+    font-family: 'Great Vibes';
+    font-size: 28px;
+}
